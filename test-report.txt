@@ -1,0 +1,81 @@
+
+Execution of 6 workers started at 2026-11-26T09:53:47.274Z
+
+[0-0] RUNNING in chrome - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/home.spec.js
+[1-2] RUNNING in firefox - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/shop.spec.js
+[0-1] RUNNING in chrome - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/product.spec.js
+[1-0] RUNNING in firefox - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/home.spec.js
+[0-2] RUNNING in chrome - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/shop.spec.js
+[1-1] RUNNING in firefox - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/product.spec.js
+[0-1] PASSED in chrome - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/product.spec.js
+[0-0] PASSED in chrome - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/home.spec.js
+[0-2] PASSED in chrome - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/shop.spec.js
+[1-1] PASSED in firefox - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/product.spec.js
+[1-2] PASSED in firefox - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/shop.spec.js
+[1-0] PASSED in firefox - file:///Users/tatevzaqaryan/EpamUnitTest/test/numbers-validator/wdioTask/src/specs/home.spec.js
+
+ "spec" Reporter:
+------------------------------------------------------------------
+[chrome 158.0.8127.37 mac #0-1] Running: chrome (v158.0.8127.37) on mac
+[chrome 158.0.8127.37 mac #0-1] Session ID: 7a04338df7cc9eaa7e7f65feefc56aa4
+[chrome 158.0.8127.37 mac #0-1]
+[chrome 158.0.8127.37 mac #0-1] » src/specs/product.spec.js
+[chrome 158.0.8127.37 mac #0-1] Product Page
+[chrome 158.0.8127.37 mac #0-1]    ✓ Verify product details
+[chrome 158.0.8127.37 mac #0-1]    ✓ Verify Add to Cart functionality
+[chrome 158.0.8127.37 mac #0-1]
+[chrome 158.0.8127.37 mac #0-1] 2 passing (2.6s)
+------------------------------------------------------------------
+[chrome 158.0.8127.37 mac #0-0] Running: chrome (v158.0.8127.37) on mac
+[chrome 158.0.8127.37 mac #0-0] Session ID: db3c254e3372c461e611fc47bc9a21ad
+[chrome 158.0.8127.37 mac #0-0]
+[chrome 158.0.8127.37 mac #0-0] » src/specs/home.spec.js
+[chrome 158.0.8127.37 mac #0-0] Home Page
+[chrome 158.0.8127.37 mac #0-0]    ✓ Verify homepage title
+[chrome 158.0.8127.37 mac #0-0]    ✓ Verify all navigation links work correctly
+[chrome 158.0.8127.37 mac #0-0]
+[chrome 158.0.8127.37 mac #0-0] 2 passing (2.7s)
+------------------------------------------------------------------
+[chrome 158.0.8127.37 mac #0-2] Running: chrome (v158.0.8127.37) on mac
+[chrome 158.0.8127.37 mac #0-2] Session ID: e6b14c443f10f931067824d67d1132f6
+[chrome 158.0.8127.37 mac #0-2]
+[chrome 158.0.8127.37 mac #0-2] » src/specs/shop.spec.js
+[chrome 158.0.8127.37 mac #0-2] Shop Page
+[chrome 158.0.8127.37 mac #0-2]    ✓ Verify products are displayed
+[chrome 158.0.8127.37 mac #0-2]    ✓ Verify search functionality
+[chrome 158.0.8127.37 mac #0-2]
+[chrome 158.0.8127.37 mac #0-2] 2 passing (2.7s)
+------------------------------------------------------------------
+[firefox 163.0a1 mac #1-1] Running: firefox (v163.0a1) on mac
+[firefox 163.0a1 mac #1-1] Session ID: 4253fca0-34f3-4be5-9d43-253e50fc9a7c
+[firefox 163.0a1 mac #1-1]
+[firefox 163.0a1 mac #1-1] » src/specs/product.spec.js
+[firefox 163.0a1 mac #1-1] Product Page
+[firefox 163.0a1 mac #1-1]    ✓ Verify product details
+[firefox 163.0a1 mac #1-1]    ✓ Verify Add to Cart functionality
+[firefox 163.0a1 mac #1-1]
+[firefox 163.0a1 mac #1-1] 2 passing (1.7s)
+------------------------------------------------------------------
+[firefox 163.0a1 mac #1-2] Running: firefox (v163.0a1) on mac
+[firefox 163.0a1 mac #1-2] Session ID: 9065b9b9-0231-4162-a100-4588015fd8ca
+[firefox 163.0a1 mac #1-2]
+[firefox 163.0a1 mac #1-2] » src/specs/shop.spec.js
+[firefox 163.0a1 mac #1-2] Shop Page
+[firefox 163.0a1 mac #1-2]    ✓ Verify products are displayed
+[firefox 163.0a1 mac #1-2]    ✓ Verify search functionality
+[firefox 163.0a1 mac #1-2]
+[firefox 163.0a1 mac #1-2] 2 passing (1.9s)
+------------------------------------------------------------------
+[firefox 163.0a1 mac #1-0] Running: firefox (v163.0a1) on mac
+[firefox 163.0a1 mac #1-0] Session ID: 91750187-1cde-4d94-af55-500d8aff2fb1
+[firefox 163.0a1 mac #1-0]
+[firefox 163.0a1 mac #1-0] » src/specs/home.spec.js
+[firefox 163.0a1 mac #1-0] Home Page
+[firefox 163.0a1 mac #1-0]    ✓ Verify homepage title
+[firefox 163.0a1 mac #1-0]    ✓ Verify all navigation links work correctly
+[firefox 163.0a1 mac #1-0]
+[firefox 163.0a1 mac #1-0] 2 passing (1.2s)
+
+
+Spec Files:	 6 passed, 6 total (100% completed) in 00:00:07  
+
